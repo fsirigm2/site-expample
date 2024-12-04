@@ -1,4 +1,5 @@
-import "@fsirigm2/obe-example/styles";
+import "@/styles/globals.css";
+import "@/styles/index.scss";
 
 import type { AppProps } from "next/app";
 
