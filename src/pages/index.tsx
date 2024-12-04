@@ -1,3 +1,5 @@
+
+"use client";
 import { HeroSearchForm } from "@fsirigm2/obe-example";
 
 export default function Home() {
