@@ -998,9 +998,9 @@
   integrity sha512-kym7SodPp8/wloecOpcmSnWJsK7M0E5Wg8UcFA+uO4B9s5d0ywXOEro/8HM9x0rW+TljRzul/14UYz3TleT3ig==
 
 "@fsirigm2/obe-example@latest":
-  version "1.0.82"
-  resolved "https://npm.pkg.github.com/download/@fsirigm2/obe-example/1.0.82/f13b0cbf5c869dcd21ddc7e1ba460dc63293768a#f13b0cbf5c869dcd21ddc7e1ba460dc63293768a"
-  integrity sha512-JYXf/h8MuKF8BgvZ6Fyy1RXuXVv9yxUXuGosaqoYCua/4TbdrM3zfeULFo2KusoQNuSBfzq/KKrCVATsjccdwg==
+  version "1.0.85"
+  resolved "https://npm.pkg.github.com/download/@fsirigm2/obe-example/1.0.85/e7bd05cc0a3df167718e3fb9a1762b8f6f752d5e#e7bd05cc0a3df167718e3fb9a1762b8f6f752d5e"
+  integrity sha512-8tDAAvDPA7x9JAO6b1apfPcsmL/Fkw8KMU+HsMj2xrQdLyATSku+o63OEN0+aw5pPrEl/+U28rCt63TI85l3kg==
   dependencies:
     "@babel/core" "^7.26.0"
     "@epic-web/config" "^1.12.0"
