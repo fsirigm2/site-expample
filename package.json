@@ -11,6 +11,7 @@
   "dependencies": {
     "@babel/preset-flow": "^7.25.9",
     "@fsirigm2/obe-example": "latest",
+    "@next/bundle-analyzer": "^15.0.3",
     "next": "14.2.18",
     "react": "^18",
     "react-dom": "^18",
